@@ -1,5 +1,5 @@
 ---
 layout: default
-title: James Wong
+site.title: James Wong
 ---
 # Hello World
